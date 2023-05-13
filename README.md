@@ -8,11 +8,6 @@
 
 I'm currently a Computer Vision Intern with a focus on Machine Learning and Deep Learning applications. I am passionate about developing AI applications to make the world a better place. I am always learning and love to work on meaningful and challenging projects.
 
-🌱 **Education:**
-- B.S in Physics, YILDIZ TECHNICAL UNIVERSITY, İstanbul, Turkey (Expected June 2026)
-- Relevant Coursework: Physics, Algorithms; Artificial Intelligence, Quantum Computing, Machine Learning, Deep Learning.
-
-
 📫 **How to reach me:**
 - [LinkedIn](https://www.linkedin.com/in/meryem-sakin-510423221/)
 - [Email](mailto:meryemmsakinn@gmail.com)
