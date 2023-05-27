@@ -7,7 +7,7 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
 
 I'm currently a Computer Vision Intern with a focus on Machine Learning and Deep Learning applications. I am passionate about developing AI applications to make the world a better place. I am always learning and love to work on meaningful and challenging projects.
-
+![Email](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=email)
 📫 **How to reach me:**
 - [LinkedIn](https://www.linkedin.com/in/meryem-sakin-510423221/)
 - [Email](mailto:meryemmsakinn@gmail.com)
