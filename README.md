@@ -1,4 +1,4 @@
-## Hello, I'm Meryem Sakin 👋
+# Hello, I'm Meryem Sakin 👋
 
 I'm a Researcher in Computer Vision, Language Models, NLP, and Audio Processing with a focus on voice cloning and natural voice generation. My drive in AI is fueled by a foundation in physics and mathematics, enriched by philosophical inquiry, propelling me towards tackling complex projects.
 
