@@ -1,9 +1,9 @@
 # Hello, I'm Meryem Sakin 👋
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
 
 I am now a Researcher with a focus on Computer Vision, Language Models (LLM), Natural Language Processing (NLP), and Audio Processing, including voice cloning and natural voice generation. My passion for AI and its transformative potential fuels my dedication to exploring and innovating in these cutting-edge fields. Committed to lifelong learning, I am always eager to take on challenging and impactful projects.
