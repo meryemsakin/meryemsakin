@@ -3,24 +3,9 @@
 I'm a Researcher in Computer Vision, Language Models, NLP, and Audio Processing with a focus on voice cloning and natural voice generation. My drive in AI is fueled by a foundation in physics and mathematics, enriched by philosophical inquiry, propelling me towards tackling complex problems.
 
 📫 **How to reach me:**
-<style>
-.badge {
-    vertical-align: middle; /* Adjusts the vertical alignment */
-    margin-right: 5px; /* Adds some space to the right of each badge */
-}
-</style>
-
-<div>
-    <a href="https://www.linkedin.com/in/meryem-sakin-510423221/" class="badge">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white">
-    </a>
-    <a href="mailto:meryemmsakinn@gmail.com" class="badge">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://medium.com/@meryemmsakinn" class="badge">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white">
-    </a>
-</div>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryem-sakin-510423221/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meryemmsakinn@gmail.com)
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@meryemmsakinn) 
 
 
 ## 💻 Tech Stack:
