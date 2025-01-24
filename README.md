@@ -1,10 +1,21 @@
 ## Hi there 👋
 
+## 🛠️ Skills & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
+</div>
 
-# Welcome to My GitHub Profile 👋
+---
 
-Hi, I'm Meryem Sakin! I'm passionate about technology, software development, and creating impactful solutions. Here you'll find a collection of my projects, contributions, and personal explorations in the world of programming and innovation.
-
+Hi, I'm Meryem Sakin! I'm a Researcher in Computer Vision, Large Language Models, NLP, and Audio Processing with a focus on voice cloning and natural voice generation. My drive in AI is fueled by a foundation in physics and mathematics, enriched by philosophical inquiry, propelling me towards tackling complex problems
 ---
 
 ## 🚀 About Me
@@ -24,18 +35,9 @@ Here's an overview of the types of projects you can find here:
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks**: Django, Flask, React
-- **Tools**: Git, Docker, VSCode
-- **Specialties**: Data Analysis, Natural Language Processing, Computer Vision
-
----
 
 ## 📈 Stats & Highlights
 ![Meryem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meryemsakin&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meryemsakin&layout=compact&theme=radical)
 
 ---
 
