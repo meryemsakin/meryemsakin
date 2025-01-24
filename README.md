@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile 👋
+# Hi There 👋
 
 
 ---
@@ -30,16 +30,6 @@ Hi, I'm Meryem Sakin! I'm passionate about technology, software development, and
 - 🌱 **Continuous Learner**: Currently expanding my knowledge in machine learning, web development, cloud technologies, and various scientific disciplines.
 - 🧠 **Research Areas**: My focus includes **Computer Vision**, **Language Models**, **Natural Language Processing (NLP)**, **Audio Processing**, and **Voice Cloning**.
 - 📖 **Interdisciplinary Interests**: My background in physics and mathematics, coupled with philosophical inquiry, drives me to tackle complex problems across fields, including **science** and **philosophy**.
-
----
-
-## 📂 My Repositories
-Here's an overview of the types of projects you can find here:
-
-- **AI & Machine Learning** 🧠: Projects that involve training models, deploying AI solutions, and exploring the power of machine intelligence.
-- **Web Development** 🌐: Dynamic websites and applications built with modern tools and frameworks.
-- **Automation Tools** 🤖: Scripts and programs designed to make life easier through automation.
-- **Open Source Contributions** 🌍: Collaborations and enhancements to existing projects in the developer community.
 
 ---
 
