@@ -11,7 +11,7 @@
 
 # Hi There 👋
 
-Hi, I'm Meryem Sakin! I'm passionate about technology, software development, and creating impactful solutions. Here you'll find a collection of my projects, contributions, and personal explorations in the world of programming and innovation.
+I'm a Researcher in Computer Vision, Large Language Models, NLP, and Audio Processing with a focus on voice cloning and natural voice generation. My drive in AI is fueled by a foundation in physics and mathematics, enriched by philosophical inquiry, propelling me towards tackling complex problems.
 
 
 ## 📈 Stats & Highlights
