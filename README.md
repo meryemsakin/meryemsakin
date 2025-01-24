@@ -1,5 +1,3 @@
-# Hi There 👋
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -11,6 +9,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
 </div>
 
+# Hi There 👋
 
 Hi, I'm Meryem Sakin! I'm passionate about technology, software development, and creating impactful solutions. Here you'll find a collection of my projects, contributions, and personal explorations in the world of programming and innovation.
 
