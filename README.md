@@ -20,7 +20,7 @@ I'm a Researcher in Computer Vision, Large Language Models, NLP, and Audio Proce
 
 ## 🤝 Connect with Me
 - 🌐 [Portfolio](https://meryemsakin.github.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/meryem-sakin-510423221/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/meryem-s-510423221/)  
 - 📧 [E-mail](mailto:meryemmsakinn@gmail.com)
 - ✍️ [Medium](https://medium.com/@meryemmsakinn)
 
